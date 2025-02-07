@@ -1,0 +1,6 @@
+[submodule "css"]
+	path = css
+	url = git@github.com:tushar03dev/Demo-CSS.git
+[submodule "js"]
+	path = js
+	url = git@github.com:tushar03dev/Demo-JS.git
